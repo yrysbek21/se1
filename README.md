@@ -9,3 +9,4 @@ Aizada Sharshenova
 Dmitrii Iabirov
 Alibek Botbaev
 Timur Amanov
+Iskander Ziia
