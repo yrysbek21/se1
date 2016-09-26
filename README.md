@@ -8,3 +8,4 @@ Aziret Toktoraliev
 Aizada Sharshenova
 Dmitrii Iabirov
 Alibek Botbaev
+Timur Amanov
