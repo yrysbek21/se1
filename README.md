@@ -5,3 +5,4 @@ Experimental repo
 2. Furkat Karaev
 3. Aizat Temirbek kyzy
 Aziret Toktoraliev
+Aizada Sharshenova
