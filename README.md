@@ -10,3 +10,4 @@ Dmitrii Iabirov
 Alibek Botbaev
 Timur Amanov
 Iskander Ziia
+Urmat Almazbekov
