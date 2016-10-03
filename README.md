@@ -12,3 +12,4 @@ Timur Amanov
 Iskander Ziia
 Urmat Almazbekov
 Samat Ydyrys uulu
+Nuraly Kaparov
