@@ -13,3 +13,4 @@ Iskander Ziia
 Urmat Almazbekov
 Samat Ydyrys uulu
 Nuraly Kaparov
+Kudaibergen Surakmatov
