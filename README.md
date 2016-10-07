@@ -15,4 +15,4 @@ Samat Ydyrys uulu
 Nuraly Kaparov
 Kudaibergen Surakmatov
 Aidai Asankanova
-
+Nurbek Chyngyzov
